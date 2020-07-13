@@ -1,2 +1,2 @@
 # Patient-Billing-System
-using java Swing- Netbeans IDE 8.2
+using java SWING- Netbeans IDE 8.2
